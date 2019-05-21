@@ -1,0 +1,20 @@
+---
+title: 声入人心2
+author: 荇舟
+date: '2019-05-12'
+slug: 声入人心2
+categories:
+  - R
+tags:
+  - plot
+  - R Markdown
+  - regression
+---
+遇到了几个聊得来的姐妹组了个有票小分队 姐妹还带我去打卡了他们毕业照的地方   
+![毕业照](./content/post/毕业照.jpg)   
+打卡梅溪湖姐妹用心做的花牌和歌词卡   
+![花牌](./content/post/花牌.jpg)   
+把给蔡蔡的信也投进了信箱   
+![信箱](./content/post/信箱.jpg)   
+开始等待开场   
+![票根](./content/post/票根.jpg)   
