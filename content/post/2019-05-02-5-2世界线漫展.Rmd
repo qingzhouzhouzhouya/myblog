@@ -1,8 +1,8 @@
 ---
-title: 5.2世界线漫展
+title: 世界线漫展
 author: 荇舟
 date: '2019-05-02'
-slug: 5-2世界线漫展
+slug: 世界线漫展
 categories:
   - R
 tags:

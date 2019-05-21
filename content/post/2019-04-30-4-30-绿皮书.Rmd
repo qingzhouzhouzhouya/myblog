@@ -1,8 +1,8 @@
 ---
-title: 4.30《绿皮书》
+title: 《绿皮书》
 author: 荇舟
 date: '2019-04-30'
-slug: 4-30-绿皮书
+slug: 绿皮书
 categories:
   - R
 tags:
